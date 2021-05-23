@@ -1,0 +1,18 @@
+{
+  "name": "32-02-10_routingandmiddlewareexercise",
+  "version": "1.0.0",
+  "description": "Simple JSON API application to 'store' a shopping list.",
+  "main": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jim Geist",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "supertest": "^6.1.3"
+  }
+}
